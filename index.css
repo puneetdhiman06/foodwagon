@@ -1,0 +1,209 @@
+    body{
+    padding: 0px;
+    margin: 0px;
+        background: black;
+    }
+    #top-bar{
+    padding: 1rem;
+        background: #FFBF00;
+    }
+    #shri-img{
+    width: 10rem;
+    }
+    .text1{
+    margin: 0rem 1rem 0rem 1rem
+    }
+.no2{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: -1rem;
+ 
+}
+#search
+{
+    margin-left:auto;
+    text-align: center;
+    margin-left: 10rem;
+}
+#search-box{
+   text-align: center;
+}
+    .jumbotron{
+    height: 30rem;
+    color: #E8E8E8
+    }
+    #jumbo-left{
+    float: left;
+    width: 45%;
+    height: 100%;
+    }
+#jumbo-right{
+    float: right;
+    width:40%;
+    height: 100%;
+}
+#rt-container{
+    position: relative;
+   
+    margin-left: 4rem;
+}
+
+.card{
+    max-width:80%;
+    margin: 5rem 10% ;
+    
+}
+.carousel-inner{
+  width:100%;
+  height: 20rem;
+}
+#ribbon{
+ float: left;
+    
+}
+
+#ac{
+    float: left;
+    margin-left: 3%;
+}
+
+h3{
+   font-family: fantasy;
+    font-size: 2.5rem;
+    color: black;
+    text-align: center;
+   
+}
+#text4{
+    color:grey;
+    font-size: 1.2rem;
+    width: 25rem;
+    text-align: center;
+    float: right;
+  
+}
+#slogan2{
+   
+    color: black;
+    font-size: 1.7rem;
+    text-align: center!important;
+    border-top: 1px grey solid;
+    border-bottom: 1px grey solid;
+    margin-top: 3rem;
+  
+}
+#phone{
+    width: 1rem;
+    margin: 1rem 0rem;
+ 
+}
+#call{
+    text-decoration: none;
+
+   
+}
+#details{
+margin-left: 37%;
+    
+}
+#last{
+    width: 100%;
+    
+    background: #FFBF00;;
+    float: left;
+    color: black;
+}
+#last-container{
+    padding: 4rem;
+    
+}
+#b{
+    border-left: 1px solid
+        white;
+    height: 100%
+}
+textarea{
+    width: 100%;
+    height: 5rem
+}
+.no2{
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: -1rem;
+ 
+}
+.w{
+  float: right;
+}
+.q{
+    text-align: center;
+    color: black;
+}
+#facebook-logo{
+width: 2rem;
+}
+
+
+@media(max-width: 1205px){
+    body{
+        width: 100%;
+    }
+    #jumbo-left{
+        width: 100%;
+        
+    }
+    #jumbo-right{
+        
+    }
+    #ribbon{
+        width: 100%;
+        margin: 3%;
+    }
+    .jumbotron{
+        height: 64rem;
+        width: 100%;
+     
+    }
+    .carousel-inner{
+        height:20rem;
+        width: 100%;
+    }
+    #ac{
+        width: 100%;
+        font-size: 0.5rem;
+    }
+    #text4{
+        position: relative;
+        left: -0.5rem;
+        width: 100%;
+        padding-bottom: 2rem;
+   
+       
+    }
+    #slogan2{
+        
+        color: grey;
+        font-weight: bold;
+        border:0px;
+        font-size: 2.6rem;
+        width: 10rem;
+     
+        text-align: right;
+        
+        
+    }
+    #search{
+        margin: 2rem 0rem 0rem 0rem; 
+    }
+    #details{
+        font-size: 1rem;
+        text-align: center;
+        
+    }
+    
+}
+
+
+
